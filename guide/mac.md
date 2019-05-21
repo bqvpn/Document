@@ -60,6 +60,6 @@
 !> 其他可能出现的情况：
 
 如果登录前没有进行第10步的更改设置，可能会弹出如下提示：
-![图12-](http://bqvpn.com/img/guide/win/plus.jpg)
+![图12-](http://bqvpn.com/img/guide/mac/change_setting.jpg)
 
 此时需要点击如图所示“Change Setting”，然后按第11步操作设置一下即可。
