@@ -3,7 +3,7 @@
 
 ### 1. 下载并安装Cisco Anyconnect（Windos版本）
 
-下载地址：[Anyconnect-win-4.2.05015](http://dl.vip-vpn.cn:8001/app/anyconnect-win-4.2.05015-pre-deploy-k9.msi)
+下载地址：[Anyconnect-win-4.2.05015](https://bqvpn.oss-cn-beijing.aliyuncs.com/anyconnect-win-4.2.05015-pre-deploy-k9.msi)
 
 ### 2. 下载完成后，找到下载好的安装文件，双击运行：
 
