@@ -3,7 +3,7 @@
 
 ### 1. 下载并安装Cisco Anyconnect（Mac版本）
 
-下载地址：[Anyconnect-macos-4.5.03040](http://dl.vip-vpn.cn:8001/app/anyconnect+macos+4.5.03040+predeploy+k9.dmg)
+下载地址：[Anyconnect-macos-4.5.03040](https://bqvpn.oss-cn-beijing.aliyuncs.com/anyconnect%2Bmacos%2B4.5.03040%2Bpredeploy%2Bk9.dmg)
 
 ### 2. 下载完成后，打开下载好的.dmg文件，双击运行：
 
