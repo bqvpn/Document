@@ -3,7 +3,7 @@
 
 ### 1. 下载并安装OpenConnect App
 
-下载地址：[OpenConnect for Android v1.11](http://dl.vip-vpn.cn:8001/app/openconnect.apk)
+下载地址：[OpenConnect for Android v1.11](https://bqvpn.oss-cn-beijing.aliyuncs.com/openconnect.apk)
 
 ### 2. 安装成功后，点击OpenConnect启动App：
 
